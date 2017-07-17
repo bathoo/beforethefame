@@ -1,0 +1,57 @@
+body {
+    background-color: #ffe4e1;
+    color: mistyrose1;
+}
+
+ul {
+    margin-top: 1.5vh;
+    padding-left: 3vh;
+}
+
+a {
+    text-decoration: none;
+    color: skyblue2;
+    text-transform: uppercase;
+    font-size: 1.5vh;
+    letter-spacing: 0.5vh;
+}
+
+a:link {
+    color: skyblue2;
+}
+
+a:visited {
+    color: skyblue2;
+}
+
+a:hover {
+    color: #96cdcd;
+}
+
+a:active {
+    color: #96cdcd;
+}
+
+.name {
+    font-size: 6vh;
+    font-family: Raleway, sans-serif;
+    font-weight: 600;
+    letter-spacing: -3px;
+}
+
+.body {
+    font-size: 1.75vh;
+    font-family: Raleway, sans-serif;
+    font-weight: 400;
+}
+
+.box {
+    padding: 7vh;
+}
+
+.links {
+    font-family: Raleway, sans-serif;
+    font-weight: 400;
+    font-size: 2vh;
+    line-height: 3vh;
+}
