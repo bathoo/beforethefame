@@ -10,26 +10,26 @@ ul {
 
 a {
     text-decoration: none;
-    color: white;
+    color: skyblue2;
     text-transform: uppercase;
     font-size: 1.5vh;
     letter-spacing: 0.5vh;
 }
 
 a:link {
-    color: white;
+    color: skyblue2;
 }
 
 a:visited {
-    color: white;
+    color: skyblue2;
 }
 
 a:hover {
-    color: #fcbcff;
+    color: #96cdcd;
 }
 
 a:active {
-    color: #fcbcff;
+    color: #96cdcd;
 }
 
 .name {
