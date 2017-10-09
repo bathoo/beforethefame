@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="index.css">
+        <link href="https://fonts.googleapis.com/css?family=Raleway:400,600" rel="stylesheet">
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?" />
+    </head?
+    <body>
+        <div class="box">
+            
+            <img src="http://i.imgur.com/0eW8wsg.png" alt="Before The Fame" width=356 height=44>
+            <br>
+            <span class="body">All the Before The Fame + Bat Releases. 🐣</span>
+            
+            <ul class="links" style="list-style-type:none">
+                <li><a href="https://twitter.com/bathoox">tweets</a> </li>
+                <li><a href="https://instagram.com/bathoox">pictures</a></li>
+                <li><a href="https://snapchat.com/add/bathoox">snapchat (dutch)</a></li>
+                <li><a href="https://link.batho.ga/MoreBatho">youtube</a></li>
+                <li><a href="https://soundcloud.com/bathoo">edits/remixes/flips etc</a></li>
+                <li><a href="mailto:hello@batho.ga">mail me</a></li>
+                <span class=body"> &#8291 &#8291 &#8291</span> 
+                <span class=body"> &#8291 &#8291 &#8291</span> 
+                <span class=body">--</span> 
+                <span class=body"> &#8291 &#8291 &#8291</span> 
+                <span class=body"> &#8291 &#8291 &#8291</span> 
+                <li><a href="http://www.batho.ga/tracks">before the fame releases</a> </li>
+                <li><a href="http://www.batho.ga/store">before the fame merchandise</a> </li>
+                <li><a href="http://www.batho.ga/">more coming soon!</a> </li>
+            </ul>
+        </div>
+    </body>
+</html>
